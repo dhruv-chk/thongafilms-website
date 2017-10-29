@@ -1,0 +1,52 @@
+body
+{
+    font-family: 'Open Sans', sans-serif;
+    margin:0 auto;
+    width:1024px;
+    background: url(back.jpg);
+    color:white;
+    text-align: justify;
+}
+h1,h2,h3
+{
+    color:wheat;
+}
+a:visited, a:link
+{
+    color:coral;  
+}
+a:hover
+{
+    color:crimson;
+}
+#uvid
+{
+    float:left;
+    margin:20px;
+}
+#descript
+{
+    width:350px;
+    float:left;
+    margin: 10px;
+    text-align: center
+}
+#submit
+{
+    margin-left: 150px;
+    align-content: center;
+}
+u
+{
+    color: coral;
+    text-decoration: none;
+}
+.slide
+{
+    margin-left: 120px;
+    align-content: :center;
+}
+.diy
+{
+    margin-left: 250px;
+}
